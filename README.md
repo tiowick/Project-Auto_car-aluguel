@@ -9,6 +9,9 @@
 
 ![WhatsApp Image 2023-02-17 at 16 22 52](https://user-images.githubusercontent.com/100328826/219804819-3c9c0b41-8a45-40e4-929b-cbd7677947e7.jpeg)
 
+## Você pode também consultar quantos usuarios existem no sistema:
+![WhatsApp Image 2023-02-17 at 23 47 13](https://user-images.githubusercontent.com/100328826/219828001-c923d377-fd69-419f-aed1-006c7108f297.jpeg)
+
 ## Depois que se cadastrar, voltar, em seguida tente logar com seu cadastro, abrirá a tela inicial:
 
 ![WhatsApp Image 2023-02-17 at 16 22 40](https://user-images.githubusercontent.com/100328826/219805021-20c3604f-6b5c-4304-8469-1d0ff69754d8.jpeg)
